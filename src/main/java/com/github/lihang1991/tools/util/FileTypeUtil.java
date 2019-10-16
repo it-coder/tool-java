@@ -1,6 +1,6 @@
-package com.github.lihang1991.util;
+package com.github.lihang1991.tools.util;
 
-import com.github.lihang1991.enums.FileTypeEnum;
+import com.github.lihang1991.tools.enums.FileTypeEnum;
 
 import java.io.FileInputStream;
 import java.io.IOException;

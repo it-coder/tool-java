@@ -1,4 +1,4 @@
-package com.github.lihang1991.enums;
+package com.github.lihang1991.tools.enums;
 
 import java.util.Objects;
 
